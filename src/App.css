@@ -1,7 +1,11 @@
 .App {
   text-align: center;
+  margin: 60px;
 }
 
+select{
+  margin: 5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
